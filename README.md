@@ -1,2 +1,2 @@
-# repeticao
-um treco de repetição ai, nao sei
+# Laços de Repetição
+acho que é esse o nome, nao fiz esse coisa ai ue
